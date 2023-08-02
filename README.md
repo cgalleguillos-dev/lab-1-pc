@@ -21,7 +21,9 @@ Decribir objetivo general
 
 1. Primer objetivo
 2. Segundo objetivo
-3. Tercer objetivo
+
+3. 
+4. Tercer objetivo
 
 ## 2. Marco teórico (800 caracteres)
 
